@@ -17,5 +17,8 @@
   "resolutions": {
     "@babel/preset-env": "7.13.8"
   },
-  "keywords": []
+  "keywords": [],
+  "repository": "https://github.com/sparshkr/Twitter-Dapp",
+  "author": "Sparsh <sparshkumar910@gmail.com>",
+  "license": "MIT"
 }
